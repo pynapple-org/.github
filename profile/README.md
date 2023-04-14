@@ -1,12 +1,10 @@
-## Hi there 👋
+## Welcome to the pynapple organization!  👋
 
-<!--
 
-**Here are some ideas to get you started:**
+pynapple is a light-weight python library for neurophysiological data analysis. The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.) and time intervals (trials, brain states, etc.). The [main code repo is here](https://github.com/pynapple-org/pynapple).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 [Read our documentation](https://pynapple-org.github.io/pynapple/) for how to get started and how to use DeepLabCut.
+
+🍿 Read the pynapple paper [here](https://www.biorxiv.org/content/10.1101/2022.12.06.519376v1)!
+
+🧙 Check out the repos below to find helper code, additional tools, and more!
