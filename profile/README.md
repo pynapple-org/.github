@@ -17,4 +17,13 @@ Pynapple is a light-weight python library for neurophysiological data analysis. 
 [![image](https://img.shields.io/pypi/v/pynapple.svg)](https://pypi.python.org/pypi/pynapple)
 ![Twitter Follow](https://img.shields.io/twitter/follow/thepynapple?style=social)
 
+### Credits
+
+
+Special thanks to Francesco P. Battaglia (<https://github.com/fpbattaglia>) for the development of the original [*TSToolbox*](<https://github.com/PeyracheLab/TStoolbox>) and [*neuroseries*](<https://github.com/NeuroNetMem/neuroseries>) packages, the latter constituting the core of *pynapple*.
+
+This package was initially developped by Guillaume Viejo (<https://github.com/gviejo>) and other members of the Peyrache Lab. 
+
+The development and maintenance is currently made at the [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) of the Simons foundation.
+
 
