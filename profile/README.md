@@ -1,3 +1,8 @@
+<!-- ![pic1](banner_logo.png) -->
+<p align="center">
+  <img width="60%" src="banner_logo.png">
+</p>
+
 ## Welcome to the pynapple organization!  👋
 
 
