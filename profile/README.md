@@ -1,6 +1,6 @@
 <!-- ![pic1](banner_logo.png) -->
 <p align="center">
-  <img width="60%" src="pynapple_logo.png">
+  <img width="50%" src="pynapple_logo.png">
 </p>
 
 ## Welcome to the pynapple organization!  👋
