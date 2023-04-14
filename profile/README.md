@@ -1,7 +1,7 @@
 ## Welcome to the pynapple organization!  👋
 
 
-pynapple is a light-weight python library for neurophysiological data analysis. The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.) and time intervals (trials, brain states, etc.). The [main code repo is here](https://github.com/pynapple-org/pynapple).
+Pynapple is a light-weight python library for neurophysiological data analysis. The goal is to offer a versatile set of tools to study typical data in the field, i.e. time series (spike times, behavioral events, etc.) and time intervals (trials, brain states, etc.). The [main code repo is here](https://github.com/pynapple-org/pynapple).
 
 👩‍💻 [Read our documentation](https://pynapple-org.github.io/pynapple/) for how to get started and how to use DeepLabCut.
 
