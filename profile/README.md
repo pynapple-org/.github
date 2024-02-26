@@ -1,4 +1,4 @@
-<!-- ![pic1](banner_logo.png) -->
+<!-- ![pic1](Pynapple_logo_final.jpg) -->
 <p align="center">
   <img width="50%" src="pynapple_logo.png">
 </p>
