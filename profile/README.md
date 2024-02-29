@@ -18,6 +18,10 @@ Pynapple is a light-weight python library for neurophysiological data analysis. 
 [![image](https://img.shields.io/pypi/v/pynapple.svg)](https://pypi.python.org/pypi/pynapple)
 ![Twitter Follow](https://img.shields.io/twitter/follow/thepynapple?style=social)
 
+## Workshop & Event announcement
+
+- The first pynapple workshop will be held as a satellite event of FENS 2024 in Vienna. More information [here](https://events.simonsfoundation.org/event/62ec461f-1f9d-4e7b-8827-67e1c47c139f/summary).
+
 ### Credits
 
 
